@@ -1,4 +1,4 @@
-Clustering using the DBSCAN method, paired with PCA for dimensionality reduction
+## Clustering using the DBSCAN method, paired with PCA for dimensionality reduction
 
 Pros :
   1. Can automatically detect outliers
@@ -10,7 +10,8 @@ Cons :
   3. Does not work well on clusters with varying densities
   4. Fine tuning the parameters takes a long time due to the intricacies of it
 
-Steps on how to use DBSCAN method, along with PCA :
+## Steps on how to use DBSCAN method, along with PCA :
+
 *You can look at the ipynb file for coding examples*
   1. Pick and choose a dataset
   2. Normalize the dataset, since PCA only works with numbers
