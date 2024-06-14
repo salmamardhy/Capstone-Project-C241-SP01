@@ -1,6 +1,8 @@
 Clustering using K-Means algorithm that paired with PCA for dimensionality reduction
+
 Pros :
 - Can make clusters with similar proportion
+
 Cons :
 - Distribution of clusters isn't clearly separated, either in plot 2d or 3d
 - It's a challenge to find a good combination of a PCA components and the number of its k cluster in K-Means
