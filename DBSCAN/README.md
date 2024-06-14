@@ -2,6 +2,7 @@ Clustering using the DBSCAN method, paired with PCA for dimensionality reduction
 Pros :
   1. Can automatically detect outliers
   2. Can make clusters with irregular shapes
+
 Cons :
   1. Output is very sensitive to the parameters
   2. High computational cost when dealing with large datasets
