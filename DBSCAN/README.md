@@ -1,4 +1,5 @@
 Clustering using the DBSCAN method, paired with PCA for dimensionality reduction
+
 Pros :
   1. Can automatically detect outliers
   2. Can make clusters with irregular shapes
