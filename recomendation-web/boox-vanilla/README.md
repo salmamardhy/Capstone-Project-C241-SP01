@@ -1,5 +1,6 @@
 # Recomendation Using TF-IDF for capstone project
----
+- Link Deployment: https://666cf771633cce69bf169480--eloquent-syrniki-b3383c.netlify.app/home
+
 ## Project Setup
 Create a new Vanilla project using Vite with TypeScript template:
 
